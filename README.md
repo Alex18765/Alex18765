@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alex18765
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning html.
+- 📫 How to reach me: a_krupsky@web.de
